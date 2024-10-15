@@ -33,7 +33,7 @@ function JoinPage(props) {
     console.log("불러온 data:", json); // 응답 확인용 로그 추가 
     setDataList(json)
   });  
-}
+}    
 
   function handleSubmit(e){
     e.preventDefault()
