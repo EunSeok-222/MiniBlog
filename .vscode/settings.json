@@ -1,0 +1,6 @@
+{
+  "editor.renderWhitespace": "selection",
+  "editor.cursorStyle": "line",
+  "editor.multiCursorModifier": "alt",
+  "editor.columnSelection": false
+}
